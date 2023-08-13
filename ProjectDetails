@@ -1,1 +1,8 @@
 The bus.rar is a zip file of the project which contains all the project files. In order to see the project you need to extract the zip file in your pc and then go to login details and connect with php myadmin and localhost server to see the overall project 
+step1--> First unzip the bus.rar
+Step2--> Then go to phpmyadmin and connect iot with localhost server.
+Step3--> for connection you need to instal xampp in your pc and then go to browser type localhost/bus then your project will be connected to localhost server
+Step4--> In order to see the project you need to create a database in the phpmyadmin named as "ostrr" and then import all the database files from bus.
+Step5--> Then the project will be open in the browser and also connected with the databse and localhost.
+Step6--> To further explore the student portal and the admin portal you have to see the login details mentioned in the "logindetails" file in the folder of the bus which you have extracted.
+
